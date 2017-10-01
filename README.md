@@ -17,15 +17,16 @@ Navagate to  appium-setup-OSX directory
 #### iOS
 sh ./ios.sh followed-by-your_system_password
 
-##### provide your system password as you need to authorize use of the iOS Simulator etc. [more info can be found from](http://appium.io/slate/en/master/?javascript#about-appium)
+##### provide your system password as you need to authorize use of the iOS Simulator etc. [more info can be found from here](http://appium.io/slate/en/master/?javascript#about-appium)
 
 #### Android
 sh ./android.sh
 
 ##### finally set the android home. Edit your .bash_profile and add following command to .bash_profile and save it.
 
-export ANDROID_HOME=/Users/<username>/your-andorid-sdk-path
-export PATH=$PATH:$ANDROID_HOME/tools
+        export ANDROID_HOME=/Users/<username>/your-andorid-sdk-path
+
+        export PATH=$PATH:$ANDROID_HOME/tools
 
 ## Check installation is success or not
 on terminal type `appium-doctor` . It will list out Diagnostic report.
