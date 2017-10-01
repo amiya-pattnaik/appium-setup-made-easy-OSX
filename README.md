@@ -1,6 +1,7 @@
 ## Appium setup made easy
 
-Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS). The hassle free shell script (.sh) file will help you set up Appium on OSX.
+Hassle free Appium setup on OSX using shell script.
+Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS). These shell script (.sh) file will help you set up Appium on OSX.
 
 ## REQUIREMENTS
 
