@@ -28,7 +28,7 @@ open a terminal, navigate to appium-setup-OSX directory
 
 ##### finally set the android home. Edit your .bash_profile and add following command to .bash_profile and save it.
 
-  export ANDROID_HOME=/Users/<username>/your-andorid-sdk-path
+  export ANDROID_HOME=/Users/your-username/your-andorid-sdk-path
 
   export PATH=$PATH:$ANDROID_HOME/tools
 
